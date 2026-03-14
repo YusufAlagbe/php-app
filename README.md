@@ -1,2 +1,3 @@
-# php-app
-docker/docker-php-sample is a simple PHP web application example.
+# docker-php-sample
+
+A simple PHP web application example for [Docker's PHP Language Guide](https://docs.docker.com/language/php/).
